@@ -99,5 +99,5 @@ that support **governments, regulators, and enterprises**.
 
 ## 📫 Contact
 
-📧 yourmail@gmail.com  
+📧 nicolassallloum@gmail.com  
 🔗 LinkedIn profile
