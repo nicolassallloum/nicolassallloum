@@ -219,7 +219,7 @@ A private blockchain integration platform using Hyperledger Fabric concepts, off
 
 ## GitHub Activity
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nicolassalloum&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolassalloum&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolassalloum&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nicolassalloum&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolassallloum&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolassalloum&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 
 ---
 
