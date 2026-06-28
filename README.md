@@ -1,75 +1,117 @@
 <!-- ===================================================== -->
+
 <!--                 NICOLAS SALLOUM PROFILE               -->
+
 <!-- ===================================================== -->
 
-<h1 align="center">Hi 👋, I'm Nicolas Salloum</h1>
+<div align="center">
 
-<h3 align="center">
-  Data Engineer | Blockchain Analytics | AI Data Systems
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=220&section=header&text=Nicolas%20Salloum&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20Blockchain%20Analytics%20%7C%20AI%20Data%20Systems&descSize=18&descAlignY=58" />
 
-<p align="center">
-  Building scalable data platforms, blockchain analytics engines, and AI-powered decision systems.
-</p>
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Nicolas%20Salloum-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nicolassallloum@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nicolassallloum%40gmail.com-red?logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=nicolassallloum&label=Profile%20Views&color=brightgreen" />
-</p>
+<div align="center">
+
+# Hi 👋, I'm Nicolas Salloum
+
+### Data Engineer | Blockchain Integration Developer | AI Data Systems Builder
+
+Building scalable data platforms, blockchain analytics engines, automation systems, and AI-powered decision support solutions.
+
+</div>
+
+<div align="center">
+
+<a href="https://nicolassalloum.me">
+  <img src="https://img.shields.io/badge/Portfolio-nicolassalloum.me-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="YOUR-LINKEDIN-URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Nicolas%20Salloum-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:nicolassallloum@gmail.com">
+  <img src="https://img.shields.io/badge/Email-nicolassallloum%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=nicolassallloum&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+
+</div>
 
 ---
 
 ## About Me
 
-I am a **Data Engineer** focused on designing and building scalable data platforms for **financial, blockchain, government, and enterprise environments**.
+I am a **Data Engineer** and **Blockchain Integration Developer** focused on designing, building, and optimizing scalable data platforms for **financial, blockchain, government, regulatory, and enterprise systems**.
 
-My work focuses on transforming raw operational data into structured, trusted, and actionable intelligence through modern data engineering, analytics, and AI-driven systems.
+My work combines **data engineering, backend development, database architecture, blockchain proof systems, and AI-powered analytics** to transform raw operational data into trusted, structured, and actionable intelligence.
 
-I am especially interested in:
+I enjoy building systems that solve real business and institutional problems, especially in areas such as:
 
-- Real-time data pipelines
-- Blockchain data ingestion and analytics
-- Enterprise data warehouses
-- OLTP and OLAP architecture
-- AI-powered reporting and decision support
-- Regulatory and government digital transformation systems
+* Real-time data pipelines
+* Blockchain analytics and transaction monitoring
+* PostgreSQL and enterprise data warehouses
+* OLTP and OLAP architecture
+* AI-assisted reporting and SQL insights
+* Regulatory technology and government digital transformation
+* Secure API integrations and backend platforms
 
 ---
 
-## Core Focus Areas
+## Professional Focus
 
-- **Data Engineering**
-  - Streaming ingestion
-  - Batch processing
-  - ETL and ELT pipelines
-  - Data modeling
-  - Data quality and validation
+<table>
+<tr>
+<td width="50%">
 
-- **Blockchain Analytics**
-  - Blockchain transaction extraction
-  - On-chain data parsing
-  - Wallet and transaction analytics
-  - SQL and NoSQL blockchain storage models
-  - Hyperledger Fabric concepts and integration
+### Data Engineering
 
-- **AI Data Systems**
-  - Natural language to SQL
-  - AI-assisted analytics
-  - KPI generation
-  - Executive intelligence dashboards
-  - Data-driven automation
+* Batch and streaming pipelines
+* ETL and ELT processing
+* Data warehouse architecture
+* Data quality and validation
+* PostgreSQL optimization
+* API-based data ingestion
 
-- **Enterprise Architecture**
-  - Financial systems
-  - Government platforms
-  - Regulatory technology
-  - Secure data integration
-  - Scalable backend systems
+</td>
+<td width="50%">
+
+### Blockchain Analytics
+
+* Blockchain data extraction
+* Wallet and transaction analytics
+* On-chain data parsing
+* Hyperledger Fabric integration
+* Off-chain PostgreSQL proof models
+* Blockchain audit and verification layers
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### AI Data Systems
+
+* Natural language to SQL
+* AI-assisted dashboards
+* KPI generation
+* Executive reporting
+* Data-driven recommendations
+* Analytics automation
+
+</td>
+<td width="50%">
+
+### Enterprise Systems
+
+* Financial intelligence systems
+* Government platforms
+* Regulatory technology
+* Secure backend APIs
+* Data migration projects
+* Scalable system architecture
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -77,171 +119,325 @@ I am especially interested in:
 
 ### Programming & Scripting
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?logo=microsoftsqlserver&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+</p>
 
-### Data Engineering
+### Data Engineering & Streaming
 
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?logo=apachekafka&logoColor=white)
-![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-017CEE?logo=apache&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Apache%20Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20NiFi-017CEE?style=flat-square&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/ETL%20%2F%20ELT-2563EB?style=flat-square&logo=databricks&logoColor=white" />
+</p>
 
 ### Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Apache%20Cassandra-1287B1?logo=apachecassandra&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?logo=clickhouse&logoColor=black)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white" />
+<img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</p>
 
 ### Backend & APIs
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?logo=postman&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+</p>
 
 ### Frontend & Dashboards
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+<p>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+</p>
 
 ### DevOps & Infrastructure
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
 
 ### Blockchain
 
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=white)
-![Hyperledger](https://img.shields.io/badge/Hyperledger%20Fabric-2F3134?logo=hyperledger&logoColor=white)
-
-**Also working with:** TRON, blockchain ETL, wallet analytics, transaction monitoring, and private blockchain concepts.
+<p>
+<img src="https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white" />
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" />
+<img src="https://img.shields.io/badge/TRON-E50914?style=flat-square&logo=tron&logoColor=white" />
+<img src="https://img.shields.io/badge/Hyperledger%20Fabric-2F3134?style=flat-square&logo=hyperledger&logoColor=white" />
+</p>
 
 ---
 
 ## Highlight Projects
 
-### Real-Time Financial Intelligence Platform
-
-A scalable financial analytics platform designed to ingest, transform, store, and analyze financial transactions in near real time.
-
-**Main features:**
-
-- Streaming data ingestion
-- Data cleaning and transformation
-- PostgreSQL data warehouse
-- KPI and executive dashboards
-- Transaction monitoring and reporting
-
----
-
-### Blockchain ETL & Analytics Engine
-
-A blockchain data processing engine that extracts blockchain records and stores them in structured SQL and NoSQL databases for investigation, analytics, and monitoring.
-
-**Main features:**
-
-- Blockchain data parsing
-- Transaction extraction
-- Wallet activity tracking
-- PostgreSQL and Cassandra storage
-- Analytics-ready data model
-
----
-
-### Enterprise PostgreSQL Data Warehouse
-
-A dimensional data warehouse designed for enterprise reporting and analytics.
-
-**Main features:**
-
-- Star schema design
-- Fact and dimension tables
-- Materialized views
-- KPI calculation
-- OLAP-ready reporting structure
-
----
-
-### AI SQL Insight Agent
-
-An AI-powered analytics assistant that converts natural language questions into SQL queries and executive insights.
-
-**Main features:**
-
-- Natural language to SQL
-- Automated KPI generation
-- Business intelligence summaries
-- Executive reporting support
-- Data-driven recommendations
-
----
+<table>
+<tr>
+<td width="50%">
 
 ### Nix Life OS
 
-A personal life operating system designed to manage health, finance, projects, habits, nutrition, medications, and personal productivity.
+A personal life operating system built to manage health, finance, projects, habits, nutrition, medications, and productivity.
 
-**Main features:**
+**Tech:** Laravel, Vue.js, PostgreSQL, REST APIs
 
-- Laravel backend
-- Vue.js frontend
-- PostgreSQL database
-- Health and nutrition tracking
-- Finance module
-- Dashboard and analytics system
+**Key features:**
+
+* Health and nutrition tracking
+* Finance dashboard
+* Habit and project management
+* Medication reminders
+* Analytics and reports
+
+</td>
+<td width="50%">
+
+### BlockNet Analytics Dashboard
+
+A blockchain analytics dashboard designed to monitor and compare major blockchain networks using KPIs, charts, and historical data.
+
+**Tech:** Laravel, Vue.js, PostgreSQL, Redis, Docker
+
+**Key features:**
+
+* Blockchain network comparison
+* Market and network KPIs
+* Historical trend analytics
+* API-based data ingestion
+* Dashboard and reporting layer
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Blockchain ETL & Analytics Engine
+
+A blockchain data processing engine that extracts, parses, and stores blockchain records in SQL and NoSQL databases.
+
+**Tech:** Python, PostgreSQL, Cassandra, Blockchain Data
+
+**Key features:**
+
+* Transaction extraction
+* Wallet activity tracking
+* Blockchain data parsing
+* SQL and NoSQL storage models
+* Analytics-ready schema design
+
+</td>
+<td width="50%">
+
+### Hyperledger Fabric Integration Platform
+
+A private blockchain integration platform using Hyperledger Fabric concepts, API middleware, PostgreSQL off-chain storage, and verification dashboards.
+
+**Tech:** Hyperledger Fabric, Node.js, PostgreSQL, CouchDB
+
+**Key features:**
+
+* Fabric chaincode functions
+* PostgreSQL off-chain synchronization
+* Blockchain transaction proof
+* History and verification APIs
+* AML and KYC proof layer
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Enterprise PostgreSQL Data Warehouse
+
+A dimensional data warehouse designed for enterprise reporting, analytics, and business intelligence.
+
+**Tech:** PostgreSQL, SQL, Materialized Views, BI
+
+**Key features:**
+
+* Star schema design
+* Fact and dimension tables
+* KPI calculation
+* Materialized views
+* OLAP-ready reporting
+
+</td>
+<td width="50%">
+
+### AI SQL Insight Agent
+
+An AI-powered analytics assistant that converts natural language questions into SQL queries, KPIs, and executive summaries.
+
+**Tech:** AI, SQL, Python, Analytics
+
+**Key features:**
+
+* Natural language to SQL
+* KPI generation
+* Business insight summaries
+* Executive reporting support
+* Data-driven recommendations
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Retail Intelligence & Power BI Analytics
+
+A large-scale synthetic retail analytics project designed for customer, product, branch, sales, and loyalty analysis.
+
+**Tech:** PostgreSQL, Python, Power BI
+
+**Key features:**
+
+* Customer analytics
+* Sales trends
+* Product and basket analysis
+* Branch performance
+* BI dashboard modeling
+
+</td>
+<td width="50%">
+
+### POS System Platform
+
+An all-in-one retail POS system with product management, transactions, payments, inventory logs, branches, users, and customer tracking.
+
+**Tech:** Laravel, Vue.js, PostgreSQL, Docker
+
+**Key features:**
+
+* Sales transactions
+* Product and stock management
+* Branch management
+* Payment records
+* Receipt and reporting foundation
+
+</td>
+</tr>
+</table>
 
 ---
 
-### Blockchain Integration Platform
+## Impact Highlights
 
-A private blockchain integration platform using Hyperledger Fabric concepts, off-chain PostgreSQL storage, API middleware, and testing dashboards.
+* Optimized complex database queries and reduced execution time from minutes to seconds.
+* Improved data pipeline processing efficiency by approximately **45%**.
+* Supported Oracle to PostgreSQL migration planning with estimated cost reduction of approximately **40%**.
+* Built analytics and monitoring concepts that improve visibility, quality control, and decision-making.
+* Designed blockchain proof-layer architecture for auditability, tamper detection, and compliance confidence.
 
-**Main features:**
+---
 
-- Wallet creation and login
-- Wallet-to-wallet transactions
-- Wallet-to-organization transactions
-- Transaction history
-- Fabric API middleware
-- PostgreSQL off-chain synchronization
+## Current Projects
+
+```text
+NixoTech Portfolio Website
+├── Personal portfolio and project showcase
+├── Vue 3 + TypeScript + Tailwind CSS
+├── Dark neon UI with professional case studies
+└── Domain: nicolassalloum.me
+
+Nix Life OS
+├── Personal operating system platform
+├── Health, finance, projects, goals, and productivity
+├── Laravel + Vue.js + PostgreSQL
+└── Analytics and reports
+
+BlockNet Analytics Dashboard
+├── Blockchain network monitoring
+├── Bitcoin, Ethereum, TRON, Solana, Polygon, Base, and more
+├── Laravel + Vue.js + PostgreSQL + Redis
+└── Blockchain analytics KPIs
+
+Blockchain Proof & Audit Layer
+├── PostgreSQL as source of truth
+├── Blockchain as trusted verification layer
+├── Hash-based audit model
+└── AML, KYC, transaction, and evidence verification
+```
+
+---
+
+## Certifications & Learning
+
+I continuously invest in professional development across data engineering, architecture, BI, and enterprise systems.
+
+### Completed / In Progress
+
+* IBM Data Architecture Professional Certificate
+* Power BI and analytics learning path
+* SQL, database administration, and query optimization
+* Data integration, migration, governance, and security
+* Kafka, Airflow, Spark, Hadoop, and modern data pipelines
+* Blockchain integration and analytics systems
+* AI-powered data systems and automation
 
 ---
 
 ## GitHub Activity
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nicolassalloum&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolassallloum&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolassalloum&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+<div align="center">
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nicolassallloum&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolassallloum&theme=tokyonight&hide_border=true" />
 
-## Current Learning & Development
+</div>
 
-I am continuously improving my skills in:
+<div align="center">
 
-- Advanced data engineering
-- Blockchain analytics
-- AI-powered data systems
-- Cloud architecture
-- Enterprise integration
-- Government digital platforms
-- Secure API and backend design
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolassallloum&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicolassallloum&theme=tokyonight" />
+
+</div>
 
 ---
 
 ## Professional Vision
 
-My long-term vision is to build **national-scale data, financial intelligence, and regulatory technology systems** that help governments, regulators, banks, and enterprises make better decisions through trusted data and secure digital infrastructure.
+My long-term vision is to build **national-scale data, financial intelligence, regulatory technology, and digital government systems** that help governments, regulators, banks, and enterprises make better decisions through trusted data and secure digital infrastructure.
 
-I believe that strong data architecture, blockchain transparency, and AI-powered intelligence can transform how institutions manage information, monitor activity, and deliver digital services.
+I believe that strong data architecture, blockchain transparency, and AI-powered intelligence can transform how institutions manage information, monitor activity, detect risk, and deliver digital services.
+
+---
+
+## What I’m Building Toward
+
+```text
+Trusted Data Platforms
+        +
+Blockchain Auditability
+        +
+AI-Powered Intelligence
+        =
+Better Decisions for Institutions
+```
 
 ---
 
@@ -252,11 +448,19 @@ I believe that strong data architecture, blockchain transparency, and AI-powered
 </p>
 
 <p align="left">
-  🔗 LinkedIn: <a href="https://www.linkedin.com/">LinkedIn Profile</a>
+  🌐 Portfolio: <a href="https://nicolassalloum.me">nicolassalloum.me</a>
+</p>
+
+<p align="left">
+  🔗 LinkedIn: <a href="YOUR-LINKEDIN-URL">LinkedIn Profile</a>
 </p>
 
 ---
 
-<p align="center">
-  <b>Data Engineering • Blockchain Analytics • AI Data Systems</b>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0F172A&height=120&section=footer" />
+
+### Data Engineering • Blockchain Analytics • AI Data Systems • Secure Digital Platforms
+
+</div>
